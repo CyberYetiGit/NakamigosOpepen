@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0x1951D5aC7DEf157A755F5038c06a681B499b8624",
+  "SCAN_LINK": "https://etherscan.io/address/0x1951d5ac7def157a755f5038c06a681b499b8624",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Nakamigos Opepen Edition",
+  "SYMBOL": "Nakamigos Opepen Edition",
+  "MAX_SUPPLY": 3300,
+  "FREE_SUPPLY": 0,
+  "DISPLAY_COST": 0.0025,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MAX_PER_TX_FREE": 1,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nakamigosopepen",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://twitter.com/TheDawgNFT",
+  "SHOW_BACKGROUND": false
+}
